@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "À Propos",
+    "group": "Groupe",
+    "documents": "Documents",
+    "portal": "Espace Client",
+    "contact": "Contact",
+    "login": "Connexion",
+    "clientSpace": "Espace Client",
+    "logout": "Déconnexion"
+  },
+  "hero": {
+    "tag": "Fondé en 2004 · Sousse, Tunisie",
+    "title1": "Excellence",
+    "title2": "Maritime",
+    "desc": "Le Groupe BAHRIA, acteur incontournable du transport maritime et de la logistique en Tunisie. Expertise, fiabilité et innovation au service de votre commerce international.",
+    "btn1": "Espace Client →",
+    "btn2": "Nos Services",
+    "stat1": "Ans d'Excellence",
+    "stat2": "Filiales",
+    "stat3": "Ports",
+    "stat4": "Disponibilité",
+    "scroll": "Défiler"
+  },
+  "services": {
+    "tag": "Nos Services",
+    "title": "Une chaîne logistique",
+    "titleGold": "complète & intégrée",
+    "more": "En savoir plus",
+    "s1": {
+      "title": "Transport Maritime",
+      "sub": "Import · Export · Fret",
+      "desc": "Gestion complète de vos opérations de fret maritime. Connaissance maritime (B/L), consignation de navires et suivi en temps réel de vos cargaisons à travers les principaux ports méditerranéens."
+    },
+    "s2": {
+      "title": "Dédouanement",
+      "sub": "SINDA · TTN · DAE",
+      "desc": "Notre filiale Universal Transit assure toutes vos procédures douanières import/export. Maîtrise des systèmes SINDA et TTN pour des dédouanements rapides et conformes."
+    },
+    "s3": {
+      "title": "Manutention & Levage",
+      "sub": "Grues · Charges lourdes",
+      "desc": "Bahria Schuch Maintenance, partenariat germano-tunisien depuis 2008, assure le levage et la manutention de charges lourdes pour les secteurs logistique, industriel et pétrolier."
+    },
+    "s4": {
+      "title": "Magasin Sous Douane",
+      "sub": "2 Magasins · 6 mois max",
+      "desc": "Deux magasins cale sous douane agréés pour le stockage temporaire de vos marchandises. Sécurité maximale, conditions optimales de conservation jusqu'à 6 mois."
+    },
+    "s5": {
+      "title": "Transport Terrestre",
+      "sub": "SCANIA · SNCFT",
+      "desc": "Solution multimodale complète avec notre propre flotte de camions SCANIA et notre partenariat ferroviaire SNCFT pour le transport de marchandises sur tout le territoire tunisien."
+    },
+    "s6": {
+      "title": "Acconage Portuaire",
+      "sub": "Sousse · Bizerte",
+      "desc": "Opérations d'acconage au port de Sousse et au port de Bizerte via notre filiale STUMAR. Chargement, déchargement et manutention de tous types de marchandises."
+    }
+  },
+  "about": {
+    "tag": "Notre Histoire",
+    "title": "Une expertise forgée en mer",
+    "p1": "La Société Maritime du Centre (SMC Bahria) a été fondée le 8 septembre 2004 par M. Farhat Belgacem à Sousse. Dotée d'une équipe de professionnels expérimentés et de moyens technologiques modernes, elle s'est imposée comme un acteur incontournable du secteur maritime tunisien.",
+    "p2": "Stratégiquement implantée dans la Zone Industrielle Sidi Abdelhamid et avec une présence forte au port de Bizerte via sa filiale STUMAR, le Groupe BAHRIA maîtrise chaque maillon de la chaîne logistique.",
+    "badge": "ans d'excellence maritime",
+    "stat1": "Capital social (TND)",
+    "stat2": "Filiales spécialisées"
+  },
+  "group": {
+    "s1": { "role": "Agence Maritime Principale",   "desc": "La société mère du groupe. Agence maritime, transit, acconage et gestion du magasin sous douane. Capital de 3 230 280 TND.", "t1": "Agence Maritime", "t2": "Transit", "t3": "Acconage", "t4": "Magasin sous douane" },
+    "s2": { "role": "Commissionnaire en Douane",    "desc": "Spécialisée dans le dédouanement import/export. Utilise les systèmes SINDA et TTN pour des procédures rapides.", "t1": "Dédouanement", "t2": "SINDA", "t3": "TTN", "t4": "Import/Export" },
+    "s3": { "role": "Manutention & Levage",         "desc": "Partenariat germano-tunisien spécialisé dans la location de grues et la manutention de charges lourdes.", "t1": "Levage", "t2": "Grues", "t3": "Industrie", "t4": "Pétrole" },
+    "s4": { "role": "Acconage Port de Bizerte",     "desc": "Concessionnaire au port de Bizerte. Chargement/déchargement de navires et manutention de tous types de marchandises.", "t1": "Acconage", "t2": "Bizerte", "t3": "Vrac", "t4": "Général Cargo" },
+    "tag": "Notre Écosystème",
+    "title1": "4 Filiales,",
+    "title2": "1 Vision",
+    "p1": "Le Groupe BAHRIA est un écosystème intégré de filiales complémentaires qui maîtrisent chaque maillon de la chaîne logistique.",
+    "p2": "Implanté stratégiquement à Sousse et au port de Bizerte, le groupe répond aux besoins les plus complexes de l'import-export tunisien."
+  },
+  "cta": {
+    "tag": "Rejoignez-nous",
+    "title": "Prêt à optimiser votre logistique ?",
+    "desc": "Faites confiance à 20 ans d'expertise maritime tunisienne. Notre équipe est à votre disposition pour étudier vos besoins et vous proposer des solutions sur mesure.",
+    "btn1": "Créer mon compte →",
+    "btn2": "Nous Contacter"
+  },
+  "portal": {
+    "tag": "Espace Client",
+    "title1": "Gérez tout depuis votre",
+    "title2": "portail",
+    "desc": "Accédez à votre tableau de bord personnalisé. Suivez vos expéditions, gérez vos documents douaniers et communiquez avec nos équipes depuis une seule plateforme sécurisée.",
+    "btn1": "Créer un compte",
+    "btn2": "Se connecter",
+    "f1": "Suivi en temps réel de vos expéditions",
+    "f2": "Gestion et téléchargement de vos documents",
+    "f3": "Communication directe avec nos équipes",
+    "f4": "Rapports et statistiques personnalisés",
+    "dashLabel": "Expéditions Actives"
+  },
+  "documents": {
+    "tag": "Documentation",
+    "title1": "Documents",
+    "title2": "essentiels",
+    "desc": "Notre équipe vous accompagne dans la préparation et la gestion de l'intégralité des documents nécessaires à vos opérations d'import/export.",
+    "d1": { "name": "Facture Commerciale", "desc": "Document de base émis par l'exportateur précisant la nature, quantité et prix des marchandises." },
+    "d2": { "name": "Connaissement (B/L)", "desc": "Le seul document négociable du transport maritime. Preuve du contrat de transport et titre de propriété." },
+    "d3": { "name": "DDM", "desc": "Déclaration en Détail des Marchandises déposée auprès des autorités douanières tunisiennes." },
+    "d4": { "name": "Certificat d'Origine", "desc": "Atteste l'origine des marchandises. Indispensable pour bénéficier des accords commerciaux préférentiels." },
+    "d5": { "name": "DAE", "desc": "Document d'Autorisation d'Enlèvement délivré après validation douanière pour retirer les marchandises." },
+    "d6": { "name": "Certificat Sanitaire", "desc": "Exigé pour les produits alimentaires, pharmaceutiques ou animaux. Délivré par les autorités compétentes." },
+    "d7": { "name": "Manifeste de Chargement", "desc": "Liste complète de toutes les marchandises embarquées à bord d'un navire pour un voyage déterminé." },
+    "d8": { "name": "SINDA / TTN", "desc": "Systèmes informatiques douaniers tunisiens. Notre filiale Universal Transit maîtrise ces plateformes." },
+    "d9": { "name": "Certificat de Circulation", "desc": "Document EUR.1 facilitant les échanges préférentiels entre la Tunisie et l'Union Européenne." }
+  },
+  "contact": {
+    "tag": "Contact",
+    "title1": "Parlons de",
+    "title2": "votre projet",
+    "intro": "Notre équipe est disponible pour répondre à toutes vos questions et vous accompagner dans vos opérations maritimes et logistiques.",
+    "address": "Zone Industrielle Sidi Abdelhamid\n4061 Sousse, Tunisie",
+    "hours": "Lun – Ven : 8h00 – 17h00\nUrgences : 24h/24",
+    "formTitle": "Envoyer un message",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Email",
+    "company": "Société",
+    "service": "Service concerné",
+    "selectService": "Sélectionner un service",
+    "message": "Message",
+    "send": "Envoyer le message →",
+    "sending": "Envoi en cours...",
+    "success": "✅ Message envoyé ! Réponse sous 24h.",
+    "error": "❌ Erreur d'envoi. Appelez-nous directement.",
+    "fields": "⚠️ Remplissez les champs obligatoires (*)."
+  },
+  "footer": {
+    "desc": "Acteur incontournable du transport maritime et de la logistique en Tunisie depuis 2004. Excellence, fiabilité et innovation au service de votre commerce international.",
+    "services": "Services",
+    "group": "Groupe",
+    "info": "Informations",
+    "rights": "Tous droits réservés"
+  }
+}

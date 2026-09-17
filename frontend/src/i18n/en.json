@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "group": "Group",
+    "documents": "Documents",
+    "portal": "Client Portal",
+    "contact": "Contact",
+    "login": "Login",
+    "clientSpace": "Client Portal",
+    "logout": "Logout"
+  },
+  "hero": {
+    "tag": "Founded in 2004 · Sousse, Tunisia",
+    "title1": "Maritime",
+    "title2": "Excellence",
+    "desc": "BAHRIA Group, a key player in maritime transport and logistics in Tunisia. Expertise, reliability and innovation at the service of your international trade.",
+    "btn1": "Client Portal →",
+    "btn2": "Our Services",
+    "stat1": "Years of Excellence",
+    "stat2": "Subsidiaries",
+    "stat3": "Ports",
+    "stat4": "Availability",
+    "scroll": "Scroll"
+  },
+  "services": {
+    "tag": "Our Services",
+    "title": "A complete",
+    "titleGold": "& integrated logistics chain",
+    "more": "Learn more",
+    "s1": {
+      "title": "Maritime Transport",
+      "sub": "Import · Export · Freight",
+      "desc": "Complete management of your maritime freight operations. Bill of lading, ship consignment and real-time tracking across major Mediterranean ports."
+    },
+    "s2": {
+      "title": "Customs Clearance",
+      "sub": "SINDA · TTN · DAE",
+      "desc": "Our subsidiary Universal Transit handles all your import/export customs procedures. Full mastery of SINDA and TTN systems for fast and compliant clearance."
+    },
+    "s3": {
+      "title": "Handling & Lifting",
+      "sub": "Cranes · Heavy loads",
+      "desc": "Bahria Schuch Maintenance, a German-Tunisian partnership since 2008, handles heavy load lifting and handling for logistics, industrial and oil sectors."
+    },
+    "s4": {
+      "title": "Bonded Warehouse",
+      "sub": "2 Warehouses · 6 months max",
+      "desc": "Two approved bonded warehouses for temporary storage. Maximum security and optimal conservation conditions for up to 6 months."
+    },
+    "s5": {
+      "title": "Land Transport",
+      "sub": "SCANIA · SNCFT",
+      "desc": "Complete multimodal solution with our own SCANIA truck fleet and SNCFT railway partnership for goods transport across all of Tunisia."
+    },
+    "s6": {
+      "title": "Port Stevedoring",
+      "sub": "Sousse · Bizerte",
+      "desc": "Stevedoring operations at Sousse and Bizerte ports via our subsidiary STUMAR. Loading, unloading and handling of all types of cargo."
+    }
+  },
+  "about": {
+    "tag": "Our History",
+    "title": "Expertise forged at sea",
+    "p1": "The Société Maritime du Centre (SMC Bahria) was founded on September 8, 2004 by Mr. Farhat Belgacem in Sousse. Equipped with an experienced team and modern technological resources, it has established itself as a key player in the Tunisian maritime sector.",
+    "p2": "Strategically located in the Sidi Abdelhamid Industrial Zone and with a strong presence at the port of Bizerte through its subsidiary STUMAR, BAHRIA Group masters every link in the logistics chain.",
+    "badge": "years of maritime excellence",
+    "stat1": "Share capital (TND)",
+    "stat2": "Specialized subsidiaries"
+  },
+  "group": {
+    "s1": { "role": "Main Maritime Agency",      "desc": "The group's parent company. Maritime agency, transit, stevedoring and bonded warehouse management. Capital 3,230,280 TND.", "t1": "Maritime Agency", "t2": "Transit", "t3": "Stevedoring", "t4": "Bonded Warehouse" },
+    "s2": { "role": "Customs Broker",            "desc": "Specialized in import/export customs clearance. Uses SINDA and TTN systems for fast and efficient procedures.", "t1": "Customs", "t2": "SINDA", "t3": "TTN", "t4": "Import/Export" },
+    "s3": { "role": "Handling & Lifting",        "desc": "German-Tunisian partnership specialized in crane rental and heavy load handling for logistics, industrial and oil sectors.", "t1": "Lifting", "t2": "Cranes", "t3": "Industry", "t4": "Oil" },
+    "s4": { "role": "Stevedoring Port of Bizerte", "desc": "Concessionaire at the port of Bizerte. Loading/unloading vessels and handling all types of cargo.", "t1": "Stevedoring", "t2": "Bizerte", "t3": "Bulk", "t4": "General Cargo" },
+    "tag": "Our Ecosystem",
+    "title1": "4 Subsidiaries,",
+    "title2": "1 Vision",
+    "p1": "BAHRIA Group is an integrated ecosystem of complementary subsidiaries that master every link in the logistics chain.",
+    "p2": "Strategically located in Sousse and at the port of Bizerte, the group meets the most complex needs of Tunisian import-export."
+  },
+  "cta": {
+    "tag": "Join Us",
+    "title": "Ready to optimize your logistics?",
+    "desc": "Trust 20 years of Tunisian maritime expertise. Our team is at your disposal to study your needs and offer tailored solutions.",
+    "btn1": "Create my account →",
+    "btn2": "Contact Us"
+  },
+  "portal": {
+    "tag": "Client Portal",
+    "title1": "Manage everything from your",
+    "title2": "portal",
+    "desc": "Access your personalized dashboard. Track your shipments, manage your customs documents and communicate with our teams from a single secure platform.",
+    "btn1": "Create an account",
+    "btn2": "Log in",
+    "f1": "Real-time tracking of your shipments",
+    "f2": "Management and download of your documents",
+    "f3": "Direct communication with our teams",
+    "f4": "Personalized reports and statistics",
+    "dashLabel": "Active Shipments"
+  },
+  "documents": {
+    "tag": "Documentation",
+    "title1": "Essential",
+    "title2": "documents",
+    "desc": "Our team accompanies you in the preparation and management of all documents required for your import/export operations.",
+    "d1": { "name": "Commercial Invoice", "desc": "Basic document issued by the exporter specifying the nature, quantity and price of goods." },
+    "d2": { "name": "Bill of Lading (B/L)", "desc": "The only negotiable document in maritime transport. Proof of the transport contract and title of ownership." },
+    "d3": { "name": "DDM", "desc": "Detailed Goods Declaration filed with Tunisian customs authorities." },
+    "d4": { "name": "Certificate of Origin", "desc": "Certifies the origin of goods. Essential to benefit from preferential trade agreements." },
+    "d5": { "name": "DAE", "desc": "Removal Authorization Document issued after customs validation to collect the goods." },
+    "d6": { "name": "Sanitary Certificate", "desc": "Required for food, pharmaceutical or animal products. Issued by the competent authorities." },
+    "d7": { "name": "Loading Manifest", "desc": "Complete list of all goods loaded on board a vessel for a specific voyage." },
+    "d8": { "name": "SINDA / TTN", "desc": "Tunisian customs computer systems. Our subsidiary Universal Transit masters these platforms." },
+    "d9": { "name": "Circulation Certificate", "desc": "EUR.1 document facilitating preferential trade between Tunisia and the European Union." }
+  },
+  "contact": {
+    "tag": "Contact",
+    "title1": "Let's talk about",
+    "title2": "your project",
+    "intro": "Our team is available to answer all your questions and support you in your maritime and logistics operations.",
+    "address": "Sidi Abdelhamid Industrial Zone\n4061 Sousse, Tunisia",
+    "hours": "Mon – Fri : 8:00am – 5:00pm\nEmergencies: 24/7",
+    "formTitle": "Send a message",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "company": "Company",
+    "service": "Service concerned",
+    "selectService": "Select a service",
+    "message": "Message",
+    "send": "Send message →",
+    "sending": "Sending...",
+    "success": "✅ Message sent! We'll reply within 24h.",
+    "error": "❌ Send error. Call us directly.",
+    "fields": "⚠️ Please fill required fields (*)."
+  },
+  "footer": {
+    "desc": "A key player in maritime transport and logistics in Tunisia since 2004. Excellence, reliability and innovation at the service of your international trade.",
+    "services": "Services",
+    "group": "Group",
+    "info": "Information",
+    "rights": "All rights reserved"
+  }
+}
